@@ -6,7 +6,6 @@ html {
    * {
     box-sizing: border-box;
    }
-   
    body {
     margin: 0;
     padding: 0;
@@ -41,7 +40,7 @@ html {
    }
    
    .jumbotron-fluid {
-    background-image: url("../images/backgrounds/h_img.jpg");
+    background-image: url("../images/h_img.jpg");
     background-size: cover;
     height: 668px;
    }
