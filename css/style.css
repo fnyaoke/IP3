@@ -24,6 +24,7 @@ html {
    .overlay > img, .h-text {
     position: relative;
     top: 33%;
+    color: whitesmoke;
    }
    .h-text{
     font-family: 'Comfortaa', cursive;
@@ -69,8 +70,9 @@ html {
    }
    
    .services {
-    background-image: url("../images/backgrounds/s_image.jpg");
+    background-image: url("../images/s_image.jpg");
     height: 280px;
+    color: whitesmoke;
    }
    
    .services h1 {
@@ -98,7 +100,7 @@ html {
    }
    
    .contacts {
-    background-image: url("../images/backgrounds/c_image.jpg");
+    background-image: url("../images/c_image.jpg");
     background-size: cover;
    }
    
