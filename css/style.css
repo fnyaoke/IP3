@@ -25,6 +25,7 @@ html {
     position: relative;
     top: 33%;
     color: whitesmoke;
+    align-content: center;
    }
    .h-text{
     font-family: 'Comfortaa', cursive;
@@ -47,6 +48,7 @@ html {
    }
    #bounce {
     animation: bounce 3s infinite;
+   margin-left: 50%;
    }
    
    @keyframes bounce {
