@@ -19,13 +19,13 @@ html {
    .overlay {
     background-color: rgba(0, 0, 0, 0.6);
     height: 668px;
+    align-content: center;
    }
    
    .overlay > img, .h-text {
     position: relative;
     top: 33%;
     color: whitesmoke;
-    align-content: center;
    }
    .h-text{
     font-family: 'Comfortaa', cursive;
@@ -35,6 +35,9 @@ html {
    }
    .overlay > img, .welcome {
     margin-bottom: 30px;
+   }
+   #logo{
+       margin-left: 50%;
    }
    
    .click {
